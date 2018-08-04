@@ -8,4 +8,5 @@ Original mutator is here <https://forums.tripwireinteractive.com/forum/killing-f
 description KFAmmoMut.ini
 
 AmmoMultiplier: Multiplies the total ammo amount.
+
 RefillTime: Interval the ammo recharged.
