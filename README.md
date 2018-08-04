@@ -1,6 +1,6 @@
 # kf2-AmmoMut-fix
 * Infinity ammo and granade.  
-* I'm not the original creater. Just fixed it and added infinite ammo features.  
+* I'm not the original creater, just fixed it and added infinite ammo features.  
 * Be able to compile with 1068.
 
 Original mutator is here (dose't work)  
