@@ -1,7 +1,6 @@
 # kf2-AmmoMut-fix
-* Infinity ammo and granade.  
-* I'm not the original creater, just fixed it and added infinite ammo features.  
-* Be able to compile with 1068.
+* Infinity ammo and grenade.  
+* I'm not the original creator, I fixed it to work on 1068 and added infinite grenade features.  
 
 Original mutator is here (dose't work)  
 https://forums.tripwireinteractive.com/forum/killing-floor-2/killing-floor-2-modifications/general-modding-discussion-ad/beta-mod-releases/110564-mutator-ammomut
