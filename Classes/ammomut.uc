@@ -120,6 +120,4 @@ function DebugMessage(string strMsg, float fMsg)
 defaultproperties
 {
 	cnt=0
-	Name="Default__AmmoMut"
-	ObjectArchetype=KFMutator'KFGame.Default__KFMutator'
 }
