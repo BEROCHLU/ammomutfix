@@ -14,3 +14,5 @@ https://forums.tripwireinteractive.com/forum/killing-floor-2/killing-floor-2-mod
 # KFAmmoMut.ini
 AmmoMultiplier: _Multiplies the total ammo amount._  
 RefillTime: _Interval the ammo recharged._
+
+# Work on v1084
