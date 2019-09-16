@@ -7,9 +7,9 @@ https://forums.tripwireinteractive.com/forum/killing-floor-2/killing-floor-2-mod
 
 # Usage
 * Dedicated Server
-  * Mutator=AmmoMut.AmmoMut
+  * `Mutator=AmmoMut.AmmoMut`
 * Solo (copy&paste in console)
-  * open KF-Outpost?Mutator=AmmoMut.AmmoMut
+  * `open KF-Outpost?Mutator=AmmoMut.AmmoMut`
 
 # KFAmmoMut.ini
 AmmoMultiplier: _Multiplies the total ammo amount._  
