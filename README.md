@@ -1,4 +1,4 @@
-# kf2-AmmoMut-fix
+# Feature
 * Infinity ammo and grenade.  
 * I'm not the original creator, I fixed it to work on v1068 and added infinite grenade features.  
 
@@ -11,11 +11,12 @@ https://forums.tripwireinteractive.com/forum/killing-floor-2/killing-floor-2-mod
 * Solo (copy&paste in console)  
 `open KF-Outpost?Mutator=AmmoMut.AmmoMut`
 
-# KFAmmoMut.ini
+# Option
+File: KFAmmoMut.ini  
 * AmmoMultiplier:  
 _Multiplies the total ammo amount._  
 * RefillTime:  
 _Interval the ammo recharged._
 
-# Work on v1096 Date: 07/02/2020
+# Work on v1096
 [download](https://github.com/BEROCHLU/kf2-AmmoMut-fix/releases/download/beta1/AmmoMut.u)
